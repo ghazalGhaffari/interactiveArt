@@ -310,3 +310,43 @@ body {
 .header-content__img {
   width: 100%;
 }
+
+/* Start main */
+
+.main {
+  padding: 3rem;
+}
+.works {
+  text-align: center;
+}
+.works__text {
+  color: #6c7890;
+  margin-bottom: 0.8rem;
+}
+.works__title {
+  color: #081d43;
+  margin-top: 0;
+}
+.works-content {
+  display: flex;
+  margin-top: 3rem;
+  margin-bottom: 2.5rem;
+  justify-content: space-around;
+}
+.works-content__item {
+}
+.item__title {
+  color: #081d43;
+}
+.item__text {
+  color: #6c7890;
+  line-height: 2rem;
+  max-width: 16rem;
+}
+.main-img {
+  max-width: 31rem;
+  margin: 0 auto;
+}
+.works-img__img {
+  width: 100%;
+}
