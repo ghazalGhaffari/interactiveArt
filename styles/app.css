@@ -386,6 +386,9 @@ body {
 .main-img {
   margin: 0 auto;
 }
+.main-img__img {
+  width: 100%;
+}
 .works-img__img {
   width: 100%;
 }
